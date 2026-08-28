@@ -1,0 +1,7 @@
+{
+  "appId": "com.esje.todolist",
+  "appName": "To Do List",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#0a0a0a"
+}
